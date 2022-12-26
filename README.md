@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatheusHvm
 - 👀 I’m interested in ... Dev full stack
 - 🌱 I’m currently learning ... Java, POO, php, SQL, html and others.
-- 💞️ I’m looking to collaborate on ... CART in Data base
+- 💞️ I’m looking to collaborate on ... Dev and suport
 - 📫 How to reach me ... matheus.marchioni@icloud.com
 
 <!---
